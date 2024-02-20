@@ -1,5 +1,4 @@
 # Hi there 👋 
-### I'm a newbie programmer, little knowledge of C++, Python, Java
 ### To reach me: utkuoksuz.tr@outlook.com
 <!--
 **utkuoksuz/utkuoksuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
